@@ -7,7 +7,7 @@ export default function Home() {
 }
 
 /*
-npm i bcrypt mongoose mongoose-unique-validator next-auth react-hot-toast
+npm i bcryptjs mongoose mongoose-unique-validator next-auth react-hot-toast
 */
 
 /*
